@@ -25,8 +25,13 @@ It uses **Python for data preprocessing, SQL for querying, Machine Learning for 
 
 ---
 
+## 📊 Power BI Dashboard
+
+![Dashboard Page 1](dashboard_image.png)
+
 ## 🚀 Steps to Run
 1. Clone the repository  
 2. Install Python libraries:
    ```bash
    pip install -r requirements.txt
+
