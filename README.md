@@ -27,7 +27,8 @@ It uses **Python for data preprocessing, SQL for querying, Machine Learning for 
 
 ## 📊 Power BI Dashboard
 
-![Dashboard Page 1](dashboard_image.png)
+![Nutrition Tracker Dashboard](dashboard%20image.png)
+
 
 ## 🚀 Steps to Run
 1. Clone the repository  
